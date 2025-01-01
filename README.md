@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions: infinite recursion due to improper handling of the base case. The `bug.py` file contains the erroneous code. The solution, provided in `bugSolution.py`, demonstrates how to properly handle negative input and prevent infinite recursion.
